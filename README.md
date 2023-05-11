@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil Thiago Nascimento 😁
 
  <div>
    <a href="https://github.com/Thiagonascimento2020">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Me seguiga nas redes abaixo!
  
 <div>
   <a href="https://www.youtube.com/channel/UChTCFhcuvyHcCw3191tQ6ag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
