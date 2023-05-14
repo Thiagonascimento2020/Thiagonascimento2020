@@ -3,7 +3,8 @@
  <div>
    <a href="https://github.com/Thiagonascimento2020">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagonascimento2020&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagonascimento2020&layout=compact&langs_count=6&theme=tokyonight"/>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonascimento2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div style="display: inline_block"><br>
