@@ -13,7 +13,7 @@
   <a href="https://play.google.com/store/apps/details?id=learn.css.webdevelopment" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <a href="https://play.google.com/store/apps/details?id=com.aide.ui&hl=pt_BR&gl=US" target="_blank"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg ">
   <a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=pt_BR&gl=US" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
-  <a href="https://jupyter.org/install" target="_blank"><img align="center" alt="jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg ">
+  <a href="https://jupyter.org/" target="_blank"><img align="center" alt="jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg ">
 </div>
  
  <br>
